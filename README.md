@@ -26,12 +26,11 @@
 - 项目结构
 WindowsNoEditor/  
 ├── UE4-hutb              
-├── llm/
-│   └── .env            
+├── llm/           
 ├── CarlaUE4.exe            
 └── hutb.bat            
 4. 检查 `llm\.env` 文件中的Github和Deeopseek API密钥已配置
-5.双击 hutb.bat 启动模拟器
+5. 双击 hutb.bat 启动模拟器
 
 ## 源码编译
 
